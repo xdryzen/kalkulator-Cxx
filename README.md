@@ -1,1 +1,3 @@
-# kalkulator-c-
+# kalkulator-cxx
+
+- hy selamat belajar c++ ☺
